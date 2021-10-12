@@ -1,0 +1,3200 @@
+FastK: 91.8389
+FastD: 75.6611
+datetime: 2021-09-27 00:00:00
+
+FastK: 100.0
+FastD: 59.4833
+datetime: 2021-09-26 00:00:00
+
+FastK: 0.0
+FastD: 18.9666
+datetime: 2021-09-25 00:00:00
+
+FastK: 0.0
+FastD: 37.9332
+datetime: 2021-09-24 00:00:00
+
+FastK: 100.0
+FastD: 75.8665
+datetime: 2021-09-23 00:00:00
+
+FastK: 100.0
+FastD: 51.7329
+datetime: 2021-09-22 00:00:00
+
+FastK: 0.0
+FastD: 3.4658
+datetime: 2021-09-21 00:00:00
+
+FastK: 0.0
+FastD: 6.9316
+datetime: 2021-09-20 00:00:00
+
+FastK: 0.0
+FastD: 13.8633
+datetime: 2021-09-19 00:00:00
+
+FastK: 17.7438
+FastD: 27.7265
+datetime: 2021-09-18 00:00:00
+
+FastK: 0.0
+FastD: 37.7092
+datetime: 2021-09-17 00:00:00
+
+FastK: 68.7054
+FastD: 75.4184
+datetime: 2021-09-16 00:00:00
+
+FastK: 100.0
+FastD: 82.1315
+datetime: 2021-09-15 00:00:00
+
+FastK: 100.0
+FastD: 64.263
+datetime: 2021-09-14 00:00:00
+
+FastK: 0.0
+FastD: 28.526
+datetime: 2021-09-13 00:00:00
+
+FastK: 100.0
+FastD: 57.052
+datetime: 2021-09-12 00:00:00
+
+FastK: 22.8344
+FastD: 14.104
+datetime: 2021-09-11 00:00:00
+
+FastK: 0.0
+FastD: 5.3736
+datetime: 2021-09-10 00:00:00
+
+FastK: 0.0
+FastD: 10.7472
+datetime: 2021-09-09 00:00:00
+
+FastK: 10.2104
+FastD: 21.4944
+datetime: 2021-09-08 00:00:00
+
+FastK: 0.0
+FastD: 32.7785
+datetime: 2021-09-07 00:00:00
+
+FastK: 49.8251
+FastD: 65.557
+datetime: 2021-09-06 00:00:00
+
+FastK: 90.0796
+FastD: 81.2889
+datetime: 2021-09-05 00:00:00
+
+FastK: 52.7859
+FastD: 72.4982
+datetime: 2021-09-04 00:00:00
+
+FastK: 100.0
+FastD: 92.2106
+datetime: 2021-09-03 00:00:00
+
+FastK: 86.4728
+FastD: 84.4211
+datetime: 2021-09-02 00:00:00
+
+FastK: 100.0
+FastD: 82.3694
+datetime: 2021-09-01 00:00:00
+
+FastK: 100.0
+FastD: 64.7389
+datetime: 2021-08-31 00:00:00
+
+FastK: 24.3332
+FastD: 29.4777
+datetime: 2021-08-30 00:00:00
+
+FastK: 0.0
+FastD: 34.6222
+datetime: 2021-08-29 00:00:00
+
+FastK: 80.4646
+FastD: 69.2444
+datetime: 2021-08-28 00:00:00
+
+FastK: 100.0
+FastD: 58.0243
+datetime: 2021-08-27 00:00:00
+
+FastK: 0.0
+FastD: 16.0486
+datetime: 2021-08-26 00:00:00
+
+FastK: 30.4376
+FastD: 32.0972
+datetime: 2021-08-25 00:00:00
+
+FastK: 0.0
+FastD: 33.7567
+datetime: 2021-08-24 00:00:00
+
+FastK: 100.0
+FastD: 67.5134
+datetime: 2021-08-23 00:00:00
+
+FastK: 19.2914
+FastD: 35.0269
+datetime: 2021-08-22 00:00:00
+
+FastK: 24.2665
+FastD: 50.7623
+datetime: 2021-08-21 00:00:00
+
+FastK: 100.0
+FastD: 77.2581
+datetime: 2021-08-20 00:00:00
+
+FastK: 100.0
+FastD: 54.5163
+datetime: 2021-08-19 00:00:00
+
+FastK: 1.7599
+FastD: 9.0326
+datetime: 2021-08-18 00:00:00
+
+FastK: 0.0
+FastD: 16.3053
+datetime: 2021-08-17 00:00:00
+
+FastK: 0.0
+FastD: 32.6106
+datetime: 2021-08-16 00:00:00
+
+FastK: 58.8328
+FastD: 65.2212
+datetime: 2021-08-15 00:00:00
+
+FastK: 73.2925
+FastD: 71.6095
+datetime: 2021-08-14 00:00:00
+
+FastK: 100.0
+FastD: 69.9264
+datetime: 2021-08-13 00:00:00
+
+FastK: 0.0
+FastD: 39.8528
+datetime: 2021-08-12 00:00:00
+
+FastK: 80.8579
+FastD: 79.7056
+datetime: 2021-08-11 00:00:00
+
+FastK: 84.2781
+FastD: 78.5533
+datetime: 2021-08-10 00:00:00
+
+FastK: 80.7806
+FastD: 72.8285
+datetime: 2021-08-09 00:00:00
+
+FastK: 32.8782
+FastD: 64.8764
+datetime: 2021-08-08 00:00:00
+
+FastK: 100.0
+FastD: 96.8747
+datetime: 2021-08-07 00:00:00
+
+FastK: 100.0
+FastD: 93.7493
+datetime: 2021-08-06 00:00:00
+
+FastK: 100.0
+FastD: 87.4987
+datetime: 2021-08-05 00:00:00
+
+FastK: 100.0
+FastD: 74.9973
+datetime: 2021-08-04 00:00:00
+
+FastK: 0.0
+FastD: 49.9946
+datetime: 2021-08-03 00:00:00
+
+FastK: 100.0
+FastD: 99.9893
+datetime: 2021-08-02 00:00:00
+
+FastK: 100.0
+FastD: 99.9786
+datetime: 2021-08-01 00:00:00
+
+FastK: 100.0
+FastD: 99.9572
+datetime: 2021-07-31 00:00:00
+
+FastK: 100.0
+FastD: 99.9144
+datetime: 2021-07-30 00:00:00
+
+FastK: 100.0
+FastD: 99.8288
+datetime: 2021-07-29 00:00:00
+
+FastK: 100.0
+FastD: 99.6576
+datetime: 2021-07-28 00:00:00
+
+FastK: 100.0
+FastD: 99.3152
+datetime: 2021-07-27 00:00:00
+
+FastK: 100.0
+FastD: 98.6304
+datetime: 2021-07-26 00:00:00
+
+FastK: 100.0
+FastD: 97.2607
+datetime: 2021-07-25 00:00:00
+
+FastK: 100.0
+FastD: 94.5215
+datetime: 2021-07-24 00:00:00
+
+FastK: 100.0
+FastD: 89.043
+datetime: 2021-07-23 00:00:00
+
+FastK: 100.0
+FastD: 78.086
+datetime: 2021-07-22 00:00:00
+
+FastK: 100.0
+FastD: 56.1719
+datetime: 2021-07-21 00:00:00
+
+FastK: 0.0
+FastD: 12.3438
+datetime: 2021-07-20 00:00:00
+
+FastK: 0.0
+FastD: 24.6876
+datetime: 2021-07-19 00:00:00
+
+FastK: 66.4469
+FastD: 49.3753
+datetime: 2021-07-18 00:00:00
+
+FastK: 55.6121
+FastD: 32.3037
+datetime: 2021-07-17 00:00:00
+
+FastK: 0.0
+FastD: 8.9952
+datetime: 2021-07-16 00:00:00
+
+FastK: 0.0
+FastD: 17.9904
+datetime: 2021-07-15 00:00:00
+
+FastK: 60.136
+FastD: 35.9809
+datetime: 2021-07-14 00:00:00
+
+FastK: 0.0
+FastD: 11.8258
+datetime: 2021-07-13 00:00:00
+
+FastK: 0.0
+FastD: 23.6516
+datetime: 2021-07-12 00:00:00
+
+FastK: 80.6867
+FastD: 47.3031
+datetime: 2021-07-11 00:00:00
+
+FastK: 0.0
+FastD: 13.9195
+datetime: 2021-07-10 00:00:00
+
+FastK: 14.8105
+FastD: 27.8389
+datetime: 2021-07-09 00:00:00
+
+FastK: 0.0
+FastD: 40.8674
+datetime: 2021-07-08 00:00:00
+
+FastK: 95.0059
+FastD: 81.7349
+datetime: 2021-07-07 00:00:00
+
+FastK: 94.7435
+FastD: 68.4639
+datetime: 2021-07-06 00:00:00
+
+FastK: 0.0
+FastD: 42.1843
+datetime: 2021-07-05 00:00:00
+
+FastK: 100.0
+FastD: 84.3685
+datetime: 2021-07-04 00:00:00
+
+FastK: 100.0
+FastD: 68.737
+datetime: 2021-07-03 00:00:00
+
+FastK: 27.277
+FastD: 37.474
+datetime: 2021-07-02 00:00:00
+
+FastK: 0.0
+FastD: 47.671
+datetime: 2021-07-01 00:00:00
+
+FastK: 100.0
+FastD: 95.342
+datetime: 2021-06-30 00:00:00
+
+FastK: 100.0
+FastD: 90.684
+datetime: 2021-06-29 00:00:00
+
+FastK: 100.0
+FastD: 81.3681
+datetime: 2021-06-28 00:00:00
+
+FastK: 100.0
+FastD: 62.7362
+datetime: 2021-06-27 00:00:00
+
+FastK: 11.8182
+FastD: 25.4724
+datetime: 2021-06-26 00:00:00
+
+FastK: 0.0
+FastD: 39.1265
+datetime: 2021-06-25 00:00:00
+
+FastK: 100.0
+FastD: 78.253
+datetime: 2021-06-24 00:00:00
+
+FastK: 100.0
+FastD: 56.506
+datetime: 2021-06-23 00:00:00
+
+FastK: 0.0
+FastD: 13.012
+datetime: 2021-06-22 00:00:00
+
+FastK: 0.0
+FastD: 26.0241
+datetime: 2021-06-21 00:00:00
+
+FastK: 100.0
+FastD: 52.0482
+datetime: 2021-06-20 00:00:00
+
+FastK: 0.0
+FastD: 4.0963
+datetime: 2021-06-19 00:00:00
+
+FastK: 0.0
+FastD: 8.1926
+datetime: 2021-06-18 00:00:00
+
+FastK: 2.8244
+FastD: 16.3853
+datetime: 2021-06-17 00:00:00
+
+FastK: 0.0
+FastD: 29.9462
+datetime: 2021-06-16 00:00:00
+
+FastK: 41.3339
+FastD: 59.8923
+datetime: 2021-06-15 00:00:00
+
+FastK: 100.0
+FastD: 78.4507
+datetime: 2021-06-14 00:00:00
+
+FastK: 100.0
+FastD: 56.9014
+datetime: 2021-06-13 00:00:00
+
+FastK: 13.1924
+FastD: 13.8028
+datetime: 2021-06-12 00:00:00
+
+FastK: 0.0
+FastD: 14.4131
+datetime: 2021-06-11 00:00:00
+
+FastK: 0.0
+FastD: 28.8262
+datetime: 2021-06-10 00:00:00
+
+FastK: 100.0
+FastD: 57.6523
+datetime: 2021-06-09 00:00:00
+
+FastK: 0.0
+FastD: 15.3047
+datetime: 2021-06-08 00:00:00
+
+FastK: 0.0
+FastD: 30.6093
+datetime: 2021-06-07 00:00:00
+
+FastK: 100.0
+FastD: 61.2186
+datetime: 2021-06-06 00:00:00
+
+FastK: 0.0
+FastD: 22.4372
+datetime: 2021-06-05 00:00:00
+
+FastK: 0.0
+FastD: 44.8744
+datetime: 2021-06-04 00:00:00
+
+FastK: 100.0
+FastD: 89.7488
+datetime: 2021-06-03 00:00:00
+
+FastK: 86.1898
+FastD: 79.4976
+datetime: 2021-06-02 00:00:00
+
+FastK: 74.472
+FastD: 72.8054
+datetime: 2021-06-01 00:00:00
+
+FastK: 100.0
+FastD: 71.1388
+datetime: 2021-05-31 00:00:00
+
+FastK: 73.0827
+FastD: 42.2776
+datetime: 2021-05-30 00:00:00
+
+FastK: 0.0
+FastD: 11.4724
+datetime: 2021-05-29 00:00:00
+
+FastK: 0.0
+FastD: 22.9447
+datetime: 2021-05-28 00:00:00
+
+FastK: 4.0186
+FastD: 45.8894
+datetime: 2021-05-27 00:00:00
+
+FastK: 100.0
+FastD: 87.7603
+datetime: 2021-05-26 00:00:00
+
+FastK: 100.0
+FastD: 75.5205
+datetime: 2021-05-25 00:00:00
+
+FastK: 100.0
+FastD: 51.0411
+datetime: 2021-05-24 00:00:00
+
+FastK: 0.0
+FastD: 2.0821
+datetime: 2021-05-23 00:00:00
+
+FastK: 0.0
+FastD: 4.1642
+datetime: 2021-05-22 00:00:00
+
+FastK: 0.0
+FastD: 8.3285
+datetime: 2021-05-21 00:00:00
+
+FastK: 26.3664
+FastD: 16.6569
+datetime: 2021-05-20 00:00:00
+
+FastK: 0.0
+FastD: 6.9474
+datetime: 2021-05-19 00:00:00
+
+FastK: 20.0386
+FastD: 13.8948
+datetime: 2021-05-18 00:00:00
+
+FastK: 0.0
+FastD: 7.751
+datetime: 2021-05-17 00:00:00
+
+FastK: 0.0
+FastD: 15.502
+datetime: 2021-05-16 00:00:00
+
+FastK: 0.0
+FastD: 31.004
+datetime: 2021-05-15 00:00:00
+
+FastK: 100.0
+FastD: 62.008
+datetime: 2021-05-14 00:00:00
+
+FastK: 0.0
+FastD: 24.0161
+datetime: 2021-05-13 00:00:00
+
+FastK: 0.0
+FastD: 48.0321
+datetime: 2021-05-12 00:00:00
+
+FastK: 100.0
+FastD: 96.0643
+datetime: 2021-05-11 00:00:00
+
+FastK: 100.0
+FastD: 92.1286
+datetime: 2021-05-10 00:00:00
+
+FastK: 100.0
+FastD: 84.2572
+datetime: 2021-05-09 00:00:00
+
+FastK: 100.0
+FastD: 68.5144
+datetime: 2021-05-08 00:00:00
+
+FastK: 0.0
+FastD: 37.0287
+datetime: 2021-05-07 00:00:00
+
+FastK: 77.4983
+FastD: 74.0574
+datetime: 2021-05-06 00:00:00
+
+FastK: 76.8794
+FastD: 70.6166
+datetime: 2021-05-05 00:00:00
+
+FastK: 28.9613
+FastD: 64.3538
+datetime: 2021-05-04 00:00:00
+
+FastK: 100.0
+FastD: 99.7462
+datetime: 2021-05-03 00:00:00
+
+FastK: 100.0
+FastD: 99.4923
+datetime: 2021-05-02 00:00:00
+
+FastK: 100.0
+FastD: 98.9846
+datetime: 2021-05-01 00:00:00
+
+FastK: 100.0
+FastD: 97.9693
+datetime: 2021-04-30 00:00:00
+
+FastK: 100.0
+FastD: 95.9385
+datetime: 2021-04-29 00:00:00
+
+FastK: 100.0
+FastD: 91.877
+datetime: 2021-04-28 00:00:00
+
+FastK: 100.0
+FastD: 83.7541
+datetime: 2021-04-27 00:00:00
+
+FastK: 100.0
+FastD: 67.5081
+datetime: 2021-04-26 00:00:00
+
+FastK: 47.9754
+FastD: 35.0162
+datetime: 2021-04-25 00:00:00
+
+FastK: 0.0
+FastD: 22.0571
+datetime: 2021-04-24 00:00:00
+
+FastK: 0.0
+FastD: 44.1141
+datetime: 2021-04-23 00:00:00
+
+FastK: 100.0
+FastD: 88.2282
+datetime: 2021-04-22 00:00:00
+
+FastK: 100.0
+FastD: 76.4565
+datetime: 2021-04-21 00:00:00
+
+FastK: 100.0
+FastD: 52.913
+datetime: 2021-04-20 00:00:00
+
+FastK: 0.0
+FastD: 5.826
+datetime: 2021-04-19 00:00:00
+
+FastK: 0.0
+FastD: 11.652
+datetime: 2021-04-18 00:00:00
+
+FastK: 0.0
+FastD: 23.3039
+datetime: 2021-04-17 00:00:00
+
+FastK: 0.0
+FastD: 46.6078
+datetime: 2021-04-16 00:00:00
+
+FastK: 100.0
+FastD: 93.2156
+datetime: 2021-04-15 00:00:00
+
+FastK: 100.0
+FastD: 86.4313
+datetime: 2021-04-14 00:00:00
+
+FastK: 100.0
+FastD: 72.8626
+datetime: 2021-04-13 00:00:00
+
+FastK: 0.0
+FastD: 45.7252
+datetime: 2021-04-12 00:00:00
+
+FastK: 100.0
+FastD: 91.4504
+datetime: 2021-04-11 00:00:00
+
+FastK: 100.0
+FastD: 82.9008
+datetime: 2021-04-10 00:00:00
+
+FastK: 83.3572
+FastD: 65.8015
+datetime: 2021-04-09 00:00:00
+
+FastK: 53.6966
+FastD: 48.2458
+datetime: 2021-04-08 00:00:00
+
+FastK: 0.0
+FastD: 42.7951
+datetime: 2021-04-07 00:00:00
+
+FastK: 100.0
+FastD: 85.5901
+datetime: 2021-04-06 00:00:00
+
+FastK: 100.0
+FastD: 71.1802
+datetime: 2021-04-05 00:00:00
+
+FastK: 35.6902
+FastD: 42.3605
+datetime: 2021-04-04 00:00:00
+
+FastK: 0.0
+FastD: 49.0307
+datetime: 2021-04-03 00:00:00
+
+FastK: 100.0
+FastD: 98.0615
+datetime: 2021-04-02 00:00:00
+
+FastK: 100.0
+FastD: 96.123
+datetime: 2021-04-01 00:00:00
+
+FastK: 100.0
+FastD: 92.246
+datetime: 2021-03-31 00:00:00
+
+FastK: 100.0
+FastD: 84.492
+datetime: 2021-03-30 00:00:00
+
+FastK: 100.0
+FastD: 68.9839
+datetime: 2021-03-29 00:00:00
+
+FastK: 0.0
+FastD: 37.9679
+datetime: 2021-03-28 00:00:00
+
+FastK: 100.0
+FastD: 75.9357
+datetime: 2021-03-27 00:00:00
+
+FastK: 100.0
+FastD: 51.8715
+datetime: 2021-03-26 00:00:00
+
+FastK: 3.5411
+FastD: 3.743
+datetime: 2021-03-25 00:00:00
+
+FastK: 0.0
+FastD: 3.9449
+datetime: 2021-03-24 00:00:00
+
+FastK: 0.0
+FastD: 7.8897
+datetime: 2021-03-23 00:00:00
+
+FastK: 0.0
+FastD: 15.7795
+datetime: 2021-03-22 00:00:00
+
+FastK: 0.0
+FastD: 31.5589
+datetime: 2021-03-21 00:00:00
+
+FastK: 86.9906
+FastD: 63.1179
+datetime: 2021-03-20 00:00:00
+
+FastK: 48.8513
+FastD: 39.2452
+datetime: 2021-03-19 00:00:00
+
+FastK: 0.0
+FastD: 29.639
+datetime: 2021-03-18 00:00:00
+
+FastK: 100.0
+FastD: 59.278
+datetime: 2021-03-17 00:00:00
+
+FastK: 14.8059
+FastD: 18.5561
+datetime: 2021-03-16 00:00:00
+
+FastK: 0.0
+FastD: 22.3063
+datetime: 2021-03-15 00:00:00
+
+FastK: 29.8847
+FastD: 44.6125
+datetime: 2021-03-14 00:00:00
+
+FastK: 100.0
+FastD: 59.3404
+datetime: 2021-03-13 00:00:00
+
+FastK: 0.0
+FastD: 18.6808
+datetime: 2021-03-12 00:00:00
+
+FastK: 27.0063
+FastD: 37.3615
+datetime: 2021-03-11 00:00:00
+
+FastK: 0.0
+FastD: 47.7168
+datetime: 2021-03-10 00:00:00
+
+FastK: 100.0
+FastD: 95.4335
+datetime: 2021-03-09 00:00:00
+
+FastK: 100.0
+FastD: 90.8671
+datetime: 2021-03-08 00:00:00
+
+FastK: 100.0
+FastD: 81.7342
+datetime: 2021-03-07 00:00:00
+
+FastK: 100.0
+FastD: 63.4683
+datetime: 2021-03-06 00:00:00
+
+FastK: 0.0
+FastD: 26.9367
+datetime: 2021-03-05 00:00:00
+
+FastK: 52.2608
+FastD: 53.8734
+datetime: 2021-03-04 00:00:00
+
+FastK: 70.8441
+FastD: 55.486
+datetime: 2021-03-03 00:00:00
+
+FastK: 26.4807
+FastD: 40.1278
+datetime: 2021-03-02 00:00:00
+
+FastK: 100.0
+FastD: 53.7749
+datetime: 2021-03-01 00:00:00
+
+FastK: 0.0
+FastD: 7.5498
+datetime: 2021-02-28 00:00:00
+
+FastK: 27.2566
+FastD: 15.0996
+datetime: 2021-02-27 00:00:00
+
+FastK: 0.0
+FastD: 2.9425
+datetime: 2021-02-26 00:00:00
+
+FastK: 0.0
+FastD: 5.885
+datetime: 2021-02-25 00:00:00
+
+FastK: 14.7614
+FastD: 11.7701
+datetime: 2021-02-24 00:00:00
+
+FastK: 0.0
+FastD: 8.7787
+datetime: 2021-02-23 00:00:00
+
+FastK: 0.0
+FastD: 17.5574
+datetime: 2021-02-22 00:00:00
+
+FastK: 25.8802
+FastD: 35.1148
+datetime: 2021-02-21 00:00:00
+
+FastK: 0.0
+FastD: 44.3493
+datetime: 2021-02-20 00:00:00
+
+FastK: 100.0
+FastD: 88.6987
+datetime: 2021-02-19 00:00:00
+
+FastK: 100.0
+FastD: 77.3974
+datetime: 2021-02-18 00:00:00
+
+FastK: 100.0
+FastD: 54.7948
+datetime: 2021-02-17 00:00:00
+
+FastK: 7.2277
+FastD: 9.5895
+datetime: 2021-02-16 00:00:00
+
+FastK: 0.0
+FastD: 11.9514
+datetime: 2021-02-15 00:00:00
+
+FastK: 0.0
+FastD: 23.9027
+datetime: 2021-02-14 00:00:00
+
+FastK: 13.7098
+FastD: 47.8055
+datetime: 2021-02-13 00:00:00
+
+FastK: 100.0
+FastD: 81.9012
+datetime: 2021-02-12 00:00:00
+
+FastK: 86.6001
+FastD: 63.8023
+datetime: 2021-02-11 00:00:00
+
+FastK: 0.0
+FastD: 41.0045
+datetime: 2021-02-10 00:00:00
+
+FastK: 100.0
+FastD: 82.0091
+datetime: 2021-02-09 00:00:00
+
+FastK: 100.0
+FastD: 64.0182
+datetime: 2021-02-08 00:00:00
+
+FastK: 0.0
+FastD: 28.0363
+datetime: 2021-02-07 00:00:00
+
+FastK: 37.2552
+FastD: 56.0726
+datetime: 2021-02-06 00:00:00
+
+FastK: 96.2597
+FastD: 74.89
+datetime: 2021-02-05 00:00:00
+
+FastK: 19.7823
+FastD: 53.5204
+datetime: 2021-02-04 00:00:00
+
+FastK: 100.0
+FastD: 87.2584
+datetime: 2021-02-03 00:00:00
+
+FastK: 100.0
+FastD: 74.5169
+datetime: 2021-02-02 00:00:00
+
+FastK: 57.6889
+FastD: 49.0338
+datetime: 2021-02-01 00:00:00
+
+FastK: 0.0
+FastD: 40.3787
+datetime: 2021-01-31 00:00:00
+
+FastK: 95.1594
+FastD: 80.7574
+datetime: 2021-01-30 00:00:00
+
+FastK: 100.0
+FastD: 66.3555
+datetime: 2021-01-29 00:00:00
+
+FastK: 43.1574
+FastD: 32.7109
+datetime: 2021-01-28 00:00:00
+
+FastK: 0.0
+FastD: 22.2644
+datetime: 2021-01-27 00:00:00
+
+FastK: 36.7124
+FastD: 44.5288
+datetime: 2021-01-26 00:00:00
+
+FastK: 20.4563
+FastD: 52.3452
+datetime: 2021-01-25 00:00:00
+
+FastK: 100.0
+FastD: 84.234
+datetime: 2021-01-24 00:00:00
+
+FastK: 100.0
+FastD: 68.468
+datetime: 2021-01-23 00:00:00
+
+FastK: 25.6196
+FastD: 36.9361
+datetime: 2021-01-22 00:00:00
+
+FastK: 0.0
+FastD: 48.2525
+datetime: 2021-01-21 00:00:00
+
+FastK: 100.0
+FastD: 96.5051
+datetime: 2021-01-20 00:00:00
+
+FastK: 100.0
+FastD: 93.0102
+datetime: 2021-01-19 00:00:00
+
+FastK: 100.0
+FastD: 86.0203
+datetime: 2021-01-18 00:00:00
+
+FastK: 100.0
+FastD: 72.0407
+datetime: 2021-01-17 00:00:00
+
+FastK: 49.3087
+FastD: 44.0814
+datetime: 2021-01-16 00:00:00
+
+FastK: 0.0
+FastD: 38.854
+datetime: 2021-01-15 00:00:00
+
+FastK: 100.0
+FastD: 77.7081
+datetime: 2021-01-14 00:00:00
+
+FastK: 100.0
+FastD: 55.4162
+datetime: 2021-01-13 00:00:00
+
+FastK: 0.0
+FastD: 10.8324
+datetime: 2021-01-12 00:00:00
+
+FastK: 0.0
+FastD: 21.6647
+datetime: 2021-01-11 00:00:00
+
+FastK: 11.953
+FastD: 43.3295
+datetime: 2021-01-10 00:00:00
+
+FastK: 100.0
+FastD: 74.706
+datetime: 2021-01-09 00:00:00
+
+FastK: 0.0
+FastD: 49.412
+datetime: 2021-01-08 00:00:00
+
+FastK: 100.0
+FastD: 98.8239
+datetime: 2021-01-07 00:00:00
+
+FastK: 100.0
+FastD: 97.6478
+datetime: 2021-01-06 00:00:00
+
+FastK: 100.0
+FastD: 95.2956
+datetime: 2021-01-05 00:00:00
+
+FastK: 100.0
+FastD: 90.5912
+datetime: 2021-01-04 00:00:00
+
+FastK: 100.0
+FastD: 81.1825
+datetime: 2021-01-03 00:00:00
+
+FastK: 100.0
+FastD: 62.365
+datetime: 2021-01-02 00:00:00
+
+FastK: 0.0
+FastD: 24.7299
+datetime: 2021-01-01 00:00:00
+
+FastK: 0.0
+FastD: 49.4598
+datetime: 2020-12-31 00:00:00
+
+FastK: 100.0
+FastD: 98.9197
+datetime: 2020-12-30 00:00:00
+
+FastK: 100.0
+FastD: 97.8394
+datetime: 2020-12-29 00:00:00
+
+FastK: 100.0
+FastD: 95.6787
+datetime: 2020-12-28 00:00:00
+
+FastK: 100.0
+FastD: 91.3575
+datetime: 2020-12-27 00:00:00
+
+FastK: 100.0
+FastD: 82.715
+datetime: 2020-12-26 00:00:00
+
+FastK: 100.0
+FastD: 65.4299
+datetime: 2020-12-25 00:00:00
+
+FastK: 38.8592
+FastD: 30.8599
+datetime: 2020-12-24 00:00:00
+
+FastK: 0.0
+FastD: 22.8606
+datetime: 2020-12-23 00:00:00
+
+FastK: 67.1094
+FastD: 45.7212
+datetime: 2020-12-22 00:00:00
+
+FastK: 0.0
+FastD: 24.333
+datetime: 2020-12-21 00:00:00
+
+FastK: 0.0
+FastD: 48.6659
+datetime: 2020-12-20 00:00:00
+
+FastK: 100.0
+FastD: 97.3318
+datetime: 2020-12-19 00:00:00
+
+FastK: 100.0
+FastD: 94.6636
+datetime: 2020-12-18 00:00:00
+
+FastK: 100.0
+FastD: 89.3272
+datetime: 2020-12-17 00:00:00
+
+FastK: 100.0
+FastD: 78.6544
+datetime: 2020-12-16 00:00:00
+
+FastK: 39.4495
+FastD: 57.3089
+datetime: 2020-12-15 00:00:00
+
+FastK: 73.6542
+FastD: 75.1683
+datetime: 2020-12-14 00:00:00
+
+FastK: 100.0
+FastD: 76.6823
+datetime: 2020-12-13 00:00:00
+
+FastK: 100.0
+FastD: 53.3645
+datetime: 2020-12-12 00:00:00
+
+FastK: 0.0
+FastD: 6.7291
+datetime: 2020-12-11 00:00:00
+
+FastK: 0.0
+FastD: 13.4582
+datetime: 2020-12-10 00:00:00
+
+FastK: 36.6076
+FastD: 26.9163
+datetime: 2020-12-09 00:00:00
+
+FastK: 0.0
+FastD: 17.2251
+datetime: 2020-12-08 00:00:00
+
+FastK: 0.0
+FastD: 34.4503
+datetime: 2020-12-07 00:00:00
+
+FastK: 100.0
+FastD: 68.9005
+datetime: 2020-12-06 00:00:00
+
+FastK: 41.9353
+FastD: 37.8011
+datetime: 2020-12-05 00:00:00
+
+FastK: 0.0
+FastD: 33.6668
+datetime: 2020-12-04 00:00:00
+
+FastK: 100.0
+FastD: 67.3337
+datetime: 2020-12-03 00:00:00
+
+FastK: 24.8646
+FastD: 34.6674
+datetime: 2020-12-02 00:00:00
+
+FastK: 0.0
+FastD: 44.4702
+datetime: 2020-12-01 00:00:00
+
+FastK: 100.0
+FastD: 88.9403
+datetime: 2020-11-30 00:00:00
+
+FastK: 100.0
+FastD: 77.8807
+datetime: 2020-11-29 00:00:00
+
+FastK: 100.0
+FastD: 55.7614
+datetime: 2020-11-28 00:00:00
+
+FastK: 0.0
+FastD: 11.5227
+datetime: 2020-11-27 00:00:00
+
+FastK: 0.0
+FastD: 23.0454
+datetime: 2020-11-26 00:00:00
+
+FastK: 0.0
+FastD: 46.0909
+datetime: 2020-11-25 00:00:00
+
+FastK: 88.2449
+FastD: 92.1818
+datetime: 2020-11-24 00:00:00
+
+FastK: 100.0
+FastD: 96.1187
+datetime: 2020-11-23 00:00:00
+
+FastK: 100.0
+FastD: 92.2374
+datetime: 2020-11-22 00:00:00
+
+FastK: 100.0
+FastD: 84.4747
+datetime: 2020-11-21 00:00:00
+
+FastK: 100.0
+FastD: 68.9494
+datetime: 2020-11-20 00:00:00
+
+FastK: 0.0
+FastD: 37.8988
+datetime: 2020-11-19 00:00:00
+
+FastK: 76.9955
+FastD: 75.7977
+datetime: 2020-11-18 00:00:00
+
+FastK: 100.0
+FastD: 74.5998
+datetime: 2020-11-17 00:00:00
+
+FastK: 75.4718
+FastD: 49.1997
+datetime: 2020-11-16 00:00:00
+
+FastK: 0.0
+FastD: 22.9276
+datetime: 2020-11-15 00:00:00
+
+FastK: 0.0
+FastD: 45.8552
+datetime: 2020-11-14 00:00:00
+
+FastK: 100.0
+FastD: 91.7104
+datetime: 2020-11-13 00:00:00
+
+FastK: 92.7462
+FastD: 83.4208
+datetime: 2020-11-12 00:00:00
+
+FastK: 100.0
+FastD: 74.0954
+datetime: 2020-11-11 00:00:00
+
+FastK: 46.7604
+FastD: 48.1908
+datetime: 2020-11-10 00:00:00
+
+FastK: 32.7373
+FastD: 49.6212
+datetime: 2020-11-09 00:00:00
+
+FastK: 70.5435
+FastD: 66.5051
+datetime: 2020-11-08 00:00:00
+
+FastK: 33.3489
+FastD: 62.4667
+datetime: 2020-11-07 00:00:00
+
+FastK: 100.0
+FastD: 91.5844
+datetime: 2020-11-06 00:00:00
+
+FastK: 100.0
+FastD: 83.1689
+datetime: 2020-11-05 00:00:00
+
+FastK: 100.0
+FastD: 66.3378
+datetime: 2020-11-04 00:00:00
+
+FastK: 30.4769
+FastD: 32.6756
+datetime: 2020-11-03 00:00:00
+
+FastK: 0.0
+FastD: 34.8742
+datetime: 2020-11-02 00:00:00
+
+FastK: 100.0
+FastD: 69.7484
+datetime: 2020-11-01 00:00:00
+
+FastK: 73.7578
+FastD: 39.4969
+datetime: 2020-10-31 00:00:00
+
+FastK: 0.0
+FastD: 5.236
+datetime: 2020-10-30 00:00:00
+
+FastK: 0.0
+FastD: 10.472
+datetime: 2020-10-29 00:00:00
+
+FastK: 0.0
+FastD: 20.944
+datetime: 2020-10-28 00:00:00
+
+FastK: 67.5509
+FastD: 41.8879
+datetime: 2020-10-27 00:00:00
+
+FastK: 0.0
+FastD: 16.225
+datetime: 2020-10-26 00:00:00
+
+FastK: 0.0
+FastD: 32.4499
+datetime: 2020-10-25 00:00:00
+
+FastK: 50.1048
+FastD: 64.8999
+datetime: 2020-10-24 00:00:00
+
+FastK: 74.5592
+FastD: 79.6949
+datetime: 2020-10-23 00:00:00
+
+FastK: 100.0
+FastD: 84.8307
+datetime: 2020-10-22 00:00:00
+
+FastK: 100.0
+FastD: 69.6613
+datetime: 2020-10-21 00:00:00
+
+FastK: 0.0
+FastD: 39.3226
+datetime: 2020-10-20 00:00:00
+
+FastK: 100.0
+FastD: 78.6453
+datetime: 2020-10-19 00:00:00
+
+FastK: 100.0
+FastD: 57.2905
+datetime: 2020-10-18 00:00:00
+
+FastK: 20.1205
+FastD: 14.5811
+datetime: 2020-10-17 00:00:00
+
+FastK: 0.0
+FastD: 9.0416
+datetime: 2020-10-16 00:00:00
+
+FastK: 0.0
+FastD: 18.0832
+datetime: 2020-10-15 00:00:00
+
+FastK: 0.0
+FastD: 36.1665
+datetime: 2020-10-14 00:00:00
+
+FastK: 47.0885
+FastD: 72.333
+datetime: 2020-10-13 00:00:00
+
+FastK: 100.0
+FastD: 97.5775
+datetime: 2020-10-12 00:00:00
+
+FastK: 100.0
+FastD: 95.155
+datetime: 2020-10-11 00:00:00
+
+FastK: 100.0
+FastD: 90.31
+datetime: 2020-10-10 00:00:00
+
+FastK: 100.0
+FastD: 80.62
+datetime: 2020-10-09 00:00:00
+
+FastK: 100.0
+FastD: 61.2399
+datetime: 2020-10-08 00:00:00
+
+FastK: 5.8328
+FastD: 22.4798
+datetime: 2020-10-07 00:00:00
+
+FastK: 0.0
+FastD: 39.1268
+datetime: 2020-10-06 00:00:00
+
+FastK: 100.0
+FastD: 78.2536
+datetime: 2020-10-05 00:00:00
+
+FastK: 100.0
+FastD: 56.5072
+datetime: 2020-10-04 00:00:00
+
+FastK: 4.339
+FastD: 13.0145
+datetime: 2020-10-03 00:00:00
+
+FastK: 0.0
+FastD: 21.6899
+datetime: 2020-10-02 00:00:00
+
+FastK: 0.0
+FastD: 43.3799
+datetime: 2020-10-01 00:00:00
+
+FastK: 100.0
+FastD: 86.7598
+datetime: 2020-09-30 00:00:00
+
+FastK: 100.0
+FastD: 73.5195
+datetime: 2020-09-29 00:00:00
+
+FastK: 0.0
+FastD: 47.039
+datetime: 2020-09-28 00:00:00
+
+FastK: 100.0
+FastD: 94.078
+datetime: 2020-09-27 00:00:00
+
+FastK: 100.0
+FastD: 88.1561
+datetime: 2020-09-26 00:00:00
+
+FastK: 100.0
+FastD: 76.3121
+datetime: 2020-09-25 00:00:00
+
+FastK: 100.0
+FastD: 52.6242
+datetime: 2020-09-24 00:00:00
+
+FastK: 0.0
+FastD: 5.2484
+datetime: 2020-09-23 00:00:00
+
+FastK: 10.9692
+FastD: 10.4969
+datetime: 2020-09-22 00:00:00
+
+FastK: 0.0
+FastD: 10.0245
+datetime: 2020-09-21 00:00:00
+
+FastK: 0.0
+FastD: 20.049
+datetime: 2020-09-20 00:00:00
+
+FastK: 14.1161
+FastD: 40.0979
+datetime: 2020-09-19 00:00:00
+
+FastK: 74.9905
+FastD: 66.0797
+datetime: 2020-09-18 00:00:00
+
+FastK: 100.0
+FastD: 57.1689
+datetime: 2020-09-17 00:00:00
+
+FastK: 6.7417
+FastD: 14.3378
+datetime: 2020-09-16 00:00:00
+
+FastK: 0.0
+FastD: 21.934
+datetime: 2020-09-15 00:00:00
+
+FastK: 40.8387
+FastD: 43.8679
+datetime: 2020-09-14 00:00:00
+
+FastK: 0.0
+FastD: 46.8972
+datetime: 2020-09-13 00:00:00
+
+FastK: 100.0
+FastD: 93.7944
+datetime: 2020-09-12 00:00:00
+
+FastK: 100.0
+FastD: 87.5888
+datetime: 2020-09-11 00:00:00
+
+FastK: 100.0
+FastD: 75.1775
+datetime: 2020-09-10 00:00:00
+
+FastK: 71.1666
+FastD: 50.355
+datetime: 2020-09-09 00:00:00
+
+FastK: 0.0
+FastD: 29.5434
+datetime: 2020-09-08 00:00:00
+
+FastK: 100.0
+FastD: 59.0868
+datetime: 2020-09-07 00:00:00
+
+FastK: 29.0542
+FastD: 18.1736
+datetime: 2020-09-06 00:00:00
+
+FastK: 0.0
+FastD: 7.2929
+datetime: 2020-09-05 00:00:00
+
+FastK: 4.8823
+FastD: 14.5858
+datetime: 2020-09-04 00:00:00
+
+FastK: 0.0
+FastD: 24.2892
+datetime: 2020-09-03 00:00:00
+
+FastK: 0.0
+FastD: 48.5785
+datetime: 2020-09-02 00:00:00
+
+FastK: 100.0
+FastD: 97.157
+datetime: 2020-09-01 00:00:00
+
+FastK: 100.0
+FastD: 94.3139
+datetime: 2020-08-31 00:00:00
+
+FastK: 100.0
+FastD: 88.6279
+datetime: 2020-08-30 00:00:00
+
+FastK: 100.0
+FastD: 77.2558
+datetime: 2020-08-29 00:00:00
+
+FastK: 100.0
+FastD: 54.5116
+datetime: 2020-08-28 00:00:00
+
+FastK: 0.0
+FastD: 9.0232
+datetime: 2020-08-27 00:00:00
+
+FastK: 8.193
+FastD: 18.0463
+datetime: 2020-08-26 00:00:00
+
+FastK: 0.0
+FastD: 27.8997
+datetime: 2020-08-25 00:00:00
+
+FastK: 100.0
+FastD: 55.7994
+datetime: 2020-08-24 00:00:00
+
+FastK: 9.3468
+FastD: 11.5987
+datetime: 2020-08-23 00:00:00
+
+FastK: 17.4062
+FastD: 13.8506
+datetime: 2020-08-22 00:00:00
+
+FastK: 0.0
+FastD: 10.2951
+datetime: 2020-08-21 00:00:00
+
+FastK: 36.9473
+FastD: 20.5902
+datetime: 2020-08-20 00:00:00
+
+FastK: 0.0
+FastD: 4.233
+datetime: 2020-08-19 00:00:00
+
+FastK: 0.0
+FastD: 8.466
+datetime: 2020-08-18 00:00:00
+
+FastK: 0.0
+FastD: 16.9319
+datetime: 2020-08-17 00:00:00
+
+FastK: 13.2285
+FastD: 33.8639
+datetime: 2020-08-16 00:00:00
+
+FastK: 27.1741
+FastD: 54.4992
+datetime: 2020-08-15 00:00:00
+
+FastK: 100.0
+FastD: 81.8242
+datetime: 2020-08-14 00:00:00
+
+FastK: 100.0
+FastD: 63.6485
+datetime: 2020-08-13 00:00:00
+
+FastK: 31.9241
+FastD: 27.297
+datetime: 2020-08-12 00:00:00
+
+FastK: 0.0
+FastD: 22.6699
+datetime: 2020-08-11 00:00:00
+
+FastK: 47.8834
+FastD: 45.3398
+datetime: 2020-08-10 00:00:00
+
+FastK: 37.8626
+FastD: 42.7962
+datetime: 2020-08-09 00:00:00
+
+FastK: 70.3049
+FastD: 47.7297
+datetime: 2020-08-08 00:00:00
+
+FastK: 0.0
+FastD: 25.1545
+datetime: 2020-08-07 00:00:00
+
+FastK: 10.0579
+FastD: 50.3091
+datetime: 2020-08-06 00:00:00
+
+FastK: 100.0
+FastD: 90.5602
+datetime: 2020-08-05 00:00:00
+
+FastK: 100.0
+FastD: 81.1205
+datetime: 2020-08-04 00:00:00
+
+FastK: 56.3483
+FastD: 62.241
+datetime: 2020-08-03 00:00:00
+
+FastK: 43.8098
+FastD: 68.1337
+datetime: 2020-08-02 00:00:00
+
+FastK: 100.0
+FastD: 92.4576
+datetime: 2020-08-01 00:00:00
+
+FastK: 100.0
+FastD: 84.9151
+datetime: 2020-07-31 00:00:00
+
+FastK: 100.0
+FastD: 69.8302
+datetime: 2020-07-30 00:00:00
+
+FastK: 12.9404
+FastD: 39.6604
+datetime: 2020-07-29 00:00:00
+
+FastK: 33.2458
+FastD: 66.3804
+datetime: 2020-07-28 00:00:00
+
+FastK: 100.0
+FastD: 99.515
+datetime: 2020-07-27 00:00:00
+
+FastK: 100.0
+FastD: 99.03
+datetime: 2020-07-26 00:00:00
+
+FastK: 100.0
+FastD: 98.0601
+datetime: 2020-07-25 00:00:00
+
+FastK: 100.0
+FastD: 96.1201
+datetime: 2020-07-24 00:00:00
+
+FastK: 100.0
+FastD: 92.2402
+datetime: 2020-07-23 00:00:00
+
+FastK: 100.0
+FastD: 84.4804
+datetime: 2020-07-22 00:00:00
+
+FastK: 100.0
+FastD: 68.9609
+datetime: 2020-07-21 00:00:00
+
+FastK: 0.0
+FastD: 37.9218
+datetime: 2020-07-20 00:00:00
+
+FastK: 100.0
+FastD: 75.8436
+datetime: 2020-07-19 00:00:00
+
+FastK: 100.0
+FastD: 51.6872
+datetime: 2020-07-18 00:00:00
+
+FastK: 0.0
+FastD: 3.3744
+datetime: 2020-07-17 00:00:00
+
+FastK: 0.0
+FastD: 6.7488
+datetime: 2020-07-16 00:00:00
+
+FastK: 0.0
+FastD: 13.4975
+datetime: 2020-07-15 00:00:00
+
+FastK: 25.3964
+FastD: 26.995
+datetime: 2020-07-14 00:00:00
+
+FastK: 0.0
+FastD: 28.5937
+datetime: 2020-07-13 00:00:00
+
+FastK: 100.0
+FastD: 57.1873
+datetime: 2020-07-12 00:00:00
+
+FastK: 0.0
+FastD: 14.3747
+datetime: 2020-07-11 00:00:00
+
+FastK: 0.0
+FastD: 28.7494
+datetime: 2020-07-10 00:00:00
+
+FastK: 24.5226
+FastD: 57.4987
+datetime: 2020-07-09 00:00:00
+
+FastK: 100.0
+FastD: 90.4748
+datetime: 2020-07-08 00:00:00
+
+FastK: 82.3104
+FastD: 80.9497
+datetime: 2020-07-07 00:00:00
+
+FastK: 100.0
+FastD: 79.5889
+datetime: 2020-07-06 00:00:00
+
+FastK: 58.7942
+FastD: 59.1778
+datetime: 2020-07-05 00:00:00
+
+FastK: 100.0
+FastD: 59.5614
+datetime: 2020-07-04 00:00:00
+
+FastK: 0.0
+FastD: 19.1229
+datetime: 2020-07-03 00:00:00
+
+FastK: 7.4178
+FastD: 38.2458
+datetime: 2020-07-02 00:00:00
+
+FastK: 100.0
+FastD: 69.0738
+datetime: 2020-07-01 00:00:00
+
+FastK: 14.5526
+FastD: 38.1476
+datetime: 2020-06-30 00:00:00
+
+FastK: 100.0
+FastD: 61.7426
+datetime: 2020-06-29 00:00:00
+
+FastK: 42.2238
+FastD: 23.4851
+datetime: 2020-06-28 00:00:00
+
+FastK: 0.0
+FastD: 4.7464
+datetime: 2020-06-27 00:00:00
+
+FastK: 0.0
+FastD: 9.4928
+datetime: 2020-06-26 00:00:00
+
+FastK: 0.0
+FastD: 18.9856
+datetime: 2020-06-25 00:00:00
+
+FastK: 0.0
+FastD: 37.9712
+datetime: 2020-06-24 00:00:00
+
+FastK: 100.0
+FastD: 75.9424
+datetime: 2020-06-23 00:00:00
+
+FastK: 100.0
+FastD: 51.8849
+datetime: 2020-06-22 00:00:00
+
+FastK: 0.0
+FastD: 3.7697
+datetime: 2020-06-21 00:00:00
+
+FastK: 0.0
+FastD: 7.5395
+datetime: 2020-06-20 00:00:00
+
+FastK: 0.0
+FastD: 15.0789
+datetime: 2020-06-19 00:00:00
+
+FastK: 0.0
+FastD: 30.1578
+datetime: 2020-06-18 00:00:00
+
+FastK: 62.1595
+FastD: 60.3157
+datetime: 2020-06-17 00:00:00
+
+FastK: 100.0
+FastD: 58.4719
+datetime: 2020-06-16 00:00:00
+
+FastK: 0.0
+FastD: 16.9438
+datetime: 2020-06-15 00:00:00
+
+FastK: 0.0
+FastD: 33.8875
+datetime: 2020-06-14 00:00:00
+
+FastK: 100.0
+FastD: 67.775
+datetime: 2020-06-13 00:00:00
+
+FastK: 35.3978
+FastD: 35.55
+datetime: 2020-06-12 00:00:00
+
+FastK: 0.0
+FastD: 35.7022
+datetime: 2020-06-11 00:00:00
+
+FastK: 100.0
+FastD: 71.4044
+datetime: 2020-06-10 00:00:00
+
+FastK: 0.0
+FastD: 42.8088
+datetime: 2020-06-09 00:00:00
+
+FastK: 100.0
+FastD: 85.6176
+datetime: 2020-06-08 00:00:00
+
+FastK: 100.0
+FastD: 71.2353
+datetime: 2020-06-07 00:00:00
+
+FastK: 51.8047
+FastD: 42.4706
+datetime: 2020-06-06 00:00:00
+
+FastK: 0.0
+FastD: 33.1365
+datetime: 2020-06-05 00:00:00
+
+FastK: 77.3569
+FastD: 66.273
+datetime: 2020-06-04 00:00:00
+
+FastK: 55.0839
+FastD: 55.1892
+datetime: 2020-06-03 00:00:00
+
+FastK: 26.6242
+FastD: 55.2945
+datetime: 2020-06-02 00:00:00
+
+FastK: 100.0
+FastD: 83.9647
+datetime: 2020-06-01 00:00:00
+
+FastK: 40.0537
+FastD: 67.9295
+datetime: 2020-05-31 00:00:00
+
+FastK: 100.0
+FastD: 95.8052
+datetime: 2020-05-30 00:00:00
+
+FastK: 100.0
+FastD: 91.6104
+datetime: 2020-05-29 00:00:00
+
+FastK: 100.0
+FastD: 83.2209
+datetime: 2020-05-28 00:00:00
+
+FastK: 100.0
+FastD: 66.4418
+datetime: 2020-05-27 00:00:00
+
+FastK: 18.525
+FastD: 32.8835
+datetime: 2020-05-26 00:00:00
+
+FastK: 60.0059
+FastD: 47.2421
+datetime: 2020-05-25 00:00:00
+
+FastK: 0.0
+FastD: 34.4783
+datetime: 2020-05-24 00:00:00
+
+FastK: 90.5601
+FastD: 68.9566
+datetime: 2020-05-23 00:00:00
+
+FastK: 71.7275
+FastD: 47.3531
+datetime: 2020-05-22 00:00:00
+
+FastK: 0.0
+FastD: 22.9787
+datetime: 2020-05-21 00:00:00
+
+FastK: 0.0
+FastD: 45.9575
+datetime: 2020-05-20 00:00:00
+
+FastK: 95.4107
+FastD: 91.9149
+datetime: 2020-05-19 00:00:00
+
+FastK: 100.0
+FastD: 88.4191
+datetime: 2020-05-18 00:00:00
+
+FastK: 100.0
+FastD: 76.8382
+datetime: 2020-05-17 00:00:00
+
+FastK: 63.0298
+FastD: 53.6764
+datetime: 2020-05-16 00:00:00
+
+FastK: 0.0
+FastD: 44.3231
+datetime: 2020-05-15 00:00:00
+
+FastK: 100.0
+FastD: 88.6462
+datetime: 2020-05-14 00:00:00
+
+FastK: 100.0
+FastD: 77.2924
+datetime: 2020-05-13 00:00:00
+
+FastK: 100.0
+FastD: 54.5848
+datetime: 2020-05-12 00:00:00
+
+FastK: 0.0
+FastD: 9.1697
+datetime: 2020-05-11 00:00:00
+
+FastK: 0.0
+FastD: 18.3394
+datetime: 2020-05-10 00:00:00
+
+FastK: 0.0
+FastD: 36.6787
+datetime: 2020-05-09 00:00:00
+
+FastK: 94.2371
+FastD: 73.3575
+datetime: 2020-05-08 00:00:00
+
+FastK: 100.0
+FastD: 52.4779
+datetime: 2020-05-07 00:00:00
+
+FastK: 0.0
+FastD: 4.9557
+datetime: 2020-05-06 00:00:00
+
+FastK: 0.0
+FastD: 9.9115
+datetime: 2020-05-05 00:00:00
+
+FastK: 0.0
+FastD: 19.8229
+datetime: 2020-05-04 00:00:00
+
+FastK: 0.0
+FastD: 39.6459
+datetime: 2020-05-03 00:00:00
+
+FastK: 100.0
+FastD: 79.2918
+datetime: 2020-05-02 00:00:00
+
+FastK: 58.2633
+FastD: 58.5836
+datetime: 2020-05-01 00:00:00
+
+FastK: 47.4871
+FastD: 58.9038
+datetime: 2020-04-30 00:00:00
+
+FastK: 100.0
+FastD: 70.3204
+datetime: 2020-04-29 00:00:00
+
+FastK: 0.0
+FastD: 40.6409
+datetime: 2020-04-28 00:00:00
+
+FastK: 65.0344
+FastD: 81.2817
+datetime: 2020-04-27 00:00:00
+
+FastK: 100.0
+FastD: 97.529
+datetime: 2020-04-26 00:00:00
+
+FastK: 100.0
+FastD: 95.0581
+datetime: 2020-04-25 00:00:00
+
+FastK: 100.0
+FastD: 90.1161
+datetime: 2020-04-24 00:00:00
+
+FastK: 100.0
+FastD: 80.2323
+datetime: 2020-04-23 00:00:00
+
+FastK: 100.0
+FastD: 60.4646
+datetime: 2020-04-22 00:00:00
+
+FastK: 5.5649
+FastD: 20.9292
+datetime: 2020-04-21 00:00:00
+
+FastK: 0.0
+FastD: 36.2934
+datetime: 2020-04-20 00:00:00
+
+FastK: 55.5823
+FastD: 72.5868
+datetime: 2020-04-19 00:00:00
+
+FastK: 100.0
+FastD: 89.5914
+datetime: 2020-04-18 00:00:00
+
+FastK: 92.0815
+FastD: 79.1827
+datetime: 2020-04-17 00:00:00
+
+FastK: 100.0
+FastD: 66.2839
+datetime: 2020-04-16 00:00:00
+
+FastK: 0.0
+FastD: 32.5678
+datetime: 2020-04-15 00:00:00
+
+FastK: 100.0
+FastD: 65.1356
+datetime: 2020-04-14 00:00:00
+
+FastK: 0.0
+FastD: 30.2712
+datetime: 2020-04-13 00:00:00
+
+FastK: 100.0
+FastD: 60.5423
+datetime: 2020-04-12 00:00:00
+
+FastK: 4.6614
+FastD: 21.0846
+datetime: 2020-04-11 00:00:00
+
+FastK: 0.0
+FastD: 37.5078
+datetime: 2020-04-10 00:00:00
+
+FastK: 58.5108
+FastD: 75.0156
+datetime: 2020-04-09 00:00:00
+
+FastK: 100.0
+FastD: 91.5205
+datetime: 2020-04-08 00:00:00
+
+FastK: 77.9923
+FastD: 83.041
+datetime: 2020-04-07 00:00:00
+
+FastK: 100.0
+FastD: 88.0896
+datetime: 2020-04-06 00:00:00
+
+FastK: 53.7756
+FastD: 76.1793
+datetime: 2020-04-05 00:00:00
+
+FastK: 100.0
+FastD: 98.583
+datetime: 2020-04-04 00:00:00
+
+FastK: 100.0
+FastD: 97.1661
+datetime: 2020-04-03 00:00:00
+
+FastK: 100.0
+FastD: 94.3321
+datetime: 2020-04-02 00:00:00
+
+FastK: 100.0
+FastD: 88.6643
+datetime: 2020-04-01 00:00:00
+
+FastK: 100.0
+FastD: 77.3285
+datetime: 2020-03-31 00:00:00
+
+FastK: 100.0
+FastD: 54.6571
+datetime: 2020-03-30 00:00:00
+
+FastK: 0.0
+FastD: 9.3141
+datetime: 2020-03-29 00:00:00
+
+FastK: 0.0
+FastD: 18.6282
+datetime: 2020-03-28 00:00:00
+
+FastK: 0.0
+FastD: 37.2564
+datetime: 2020-03-27 00:00:00
+
+FastK: 100.0
+FastD: 74.5128
+datetime: 2020-03-26 00:00:00
+
+FastK: 17.7703
+FastD: 49.0256
+datetime: 2020-03-25 00:00:00
+
+FastK: 100.0
+FastD: 80.281
+datetime: 2020-03-24 00:00:00
+
+FastK: 100.0
+FastD: 60.5619
+datetime: 2020-03-23 00:00:00
+
+FastK: 0.0
+FastD: 21.1238
+datetime: 2020-03-22 00:00:00
+
+FastK: 0.0
+FastD: 42.2476
+datetime: 2020-03-21 00:00:00
+
+FastK: 86.7244
+FastD: 84.4952
+datetime: 2020-03-20 00:00:00
+
+FastK: 100.0
+FastD: 82.2661
+datetime: 2020-03-19 00:00:00
+
+FastK: 100.0
+FastD: 64.5322
+datetime: 2020-03-18 00:00:00
+
+FastK: 44.4457
+FastD: 29.0644
+datetime: 2020-03-17 00:00:00
+
+FastK: 0.0
+FastD: 13.683
+datetime: 2020-03-16 00:00:00
+
+FastK: 12.8446
+FastD: 27.3661
+datetime: 2020-03-15 00:00:00
+
+FastK: 63.9635
+FastD: 41.8876
+datetime: 2020-03-14 00:00:00
+
+FastK: 32.7287
+FastD: 19.8117
+datetime: 2020-03-13 00:00:00
+
+FastK: 0.0
+FastD: 6.8946
+datetime: 2020-03-12 00:00:00
+
+FastK: 0.0
+FastD: 13.7893
+datetime: 2020-03-11 00:00:00
+
+FastK: 35.1315
+FastD: 27.5785
+datetime: 2020-03-10 00:00:00
+
+FastK: 8.2299
+FastD: 20.0255
+datetime: 2020-03-09 00:00:00
+
+FastK: 0.0
+FastD: 31.8211
+datetime: 2020-03-08 00:00:00
+
+FastK: 46.0248
+FastD: 63.6421
+datetime: 2020-03-07 00:00:00
+
+FastK: 100.0
+FastD: 81.2594
+datetime: 2020-03-06 00:00:00
+
+FastK: 100.0
+FastD: 62.5188
+datetime: 2020-03-05 00:00:00
+
+FastK: 3.8483
+FastD: 25.0377
+datetime: 2020-03-04 00:00:00
+
+FastK: 35.933
+FastD: 46.227
+datetime: 2020-03-03 00:00:00
+
+FastK: 100.0
+FastD: 56.5211
+datetime: 2020-03-02 00:00:00
+
+FastK: 5.6523
+FastD: 13.0423
+datetime: 2020-03-01 00:00:00
+
+FastK: 0.0
+FastD: 20.4323
+datetime: 2020-02-29 00:00:00
+
+FastK: 69.3527
+FastD: 40.8646
+datetime: 2020-02-28 00:00:00
+
+FastK: 14.4704
+FastD: 12.3765
+datetime: 2020-02-27 00:00:00
+
+FastK: 0.0
+FastD: 10.2827
+datetime: 2020-02-26 00:00:00
+
+FastK: 0.0
+FastD: 20.5654
+datetime: 2020-02-25 00:00:00
+
+FastK: 7.0311
+FastD: 41.1307
+datetime: 2020-02-24 00:00:00
+
+FastK: 100.0
+FastD: 75.2303
+datetime: 2020-02-23 00:00:00
+
+FastK: 40.7899
+FastD: 50.4606
+datetime: 2020-02-22 00:00:00
+
+FastK: 100.0
+FastD: 60.1313
+datetime: 2020-02-21 00:00:00
+
+FastK: 0.0
+FastD: 20.2627
+datetime: 2020-02-20 00:00:00
+
+FastK: 0.0
+FastD: 40.5254
+datetime: 2020-02-19 00:00:00
+
+FastK: 100.0
+FastD: 81.0507
+datetime: 2020-02-18 00:00:00
+
+FastK: 100.0
+FastD: 62.1015
+datetime: 2020-02-17 00:00:00
+
+FastK: 0.0
+FastD: 24.203
+datetime: 2020-02-16 00:00:00
+
+FastK: 0.0
+FastD: 48.406
+datetime: 2020-02-15 00:00:00
+
+FastK: 100.0
+FastD: 96.8119
+datetime: 2020-02-14 00:00:00
+
+FastK: 100.0
+FastD: 93.6238
+datetime: 2020-02-13 00:00:00
+
+FastK: 100.0
+FastD: 87.2476
+datetime: 2020-02-12 00:00:00
+
+FastK: 100.0
+FastD: 74.4953
+datetime: 2020-02-11 00:00:00
+
+FastK: 0.0
+FastD: 48.9905
+datetime: 2020-02-10 00:00:00
+
+FastK: 100.0
+FastD: 97.981
+datetime: 2020-02-09 00:00:00
+
+FastK: 96.6106
+FastD: 95.9621
+datetime: 2020-02-08 00:00:00
+
+FastK: 100.0
+FastD: 95.3136
+datetime: 2020-02-07 00:00:00
+
+FastK: 100.0
+FastD: 90.6273
+datetime: 2020-02-06 00:00:00
+
+FastK: 100.0
+FastD: 81.2546
+datetime: 2020-02-05 00:00:00
+
+FastK: 31.8878
+FastD: 62.5091
+datetime: 2020-02-04 00:00:00
+
+FastK: 100.0
+FastD: 93.1304
+datetime: 2020-02-03 00:00:00
+
+FastK: 100.0
+FastD: 86.2609
+datetime: 2020-02-02 00:00:00
+
+FastK: 73.1367
+FastD: 72.5218
+datetime: 2020-02-01 00:00:00
+
+FastK: 55.5097
+FastD: 71.9069
+datetime: 2020-01-31 00:00:00
+
+FastK: 100.0
+FastD: 88.3041
+datetime: 2020-01-30 00:00:00
+
+FastK: 64.88
+FastD: 76.6082
+datetime: 2020-01-29 00:00:00
+
+FastK: 100.0
+FastD: 88.3363
+datetime: 2020-01-28 00:00:00
+
+FastK: 100.0
+FastD: 76.6727
+datetime: 2020-01-27 00:00:00
+
+FastK: 100.0
+FastD: 53.3453
+datetime: 2020-01-26 00:00:00
+
+FastK: 0.0
+FastD: 6.6907
+datetime: 2020-01-25 00:00:00
+
+FastK: 0.0
+FastD: 13.3814
+datetime: 2020-01-24 00:00:00
+
+FastK: 0.0
+FastD: 26.7627
+datetime: 2020-01-23 00:00:00
+
+FastK: 45.996
+FastD: 53.5254
+datetime: 2020-01-22 00:00:00
+
+FastK: 100.0
+FastD: 61.0548
+datetime: 2020-01-21 00:00:00
+
+FastK: 1.1003
+FastD: 22.1096
+datetime: 2020-01-20 00:00:00
+
+FastK: 0.0
+FastD: 43.1189
+datetime: 2020-01-19 00:00:00
+
+FastK: 100.0
+FastD: 86.2377
+datetime: 2020-01-18 00:00:00
+
+FastK: 100.0
+FastD: 72.4754
+datetime: 2020-01-17 00:00:00
+
+FastK: 0.0
+FastD: 44.9509
+datetime: 2020-01-16 00:00:00
+
+FastK: 100.0
+FastD: 89.9017
+datetime: 2020-01-15 00:00:00
+
+FastK: 100.0
+FastD: 79.8034
+datetime: 2020-01-14 00:00:00
+
+FastK: 36.4906
+FastD: 59.6069
+datetime: 2020-01-13 00:00:00
+
+FastK: 100.0
+FastD: 82.7231
+datetime: 2020-01-12 00:00:00
+
+FastK: 69.519
+FastD: 65.4462
+datetime: 2020-01-11 00:00:00
+
+FastK: 100.0
+FastD: 61.3734
+datetime: 2020-01-10 00:00:00
+
+FastK: 0.0
+FastD: 22.7467
+datetime: 2020-01-09 00:00:00
+
+FastK: 0.0
+FastD: 45.4934
+datetime: 2020-01-08 00:00:00
+
+FastK: 86.5829
+FastD: 90.9869
+datetime: 2020-01-07 00:00:00
+
+FastK: 100.0
+FastD: 95.3908
+datetime: 2020-01-06 00:00:00
+
+FastK: 100.0
+FastD: 90.7816
+datetime: 2020-01-05 00:00:00
+
+FastK: 98.2428
+FastD: 81.5632
+datetime: 2020-01-04 00:00:00
+
+FastK: 100.0
+FastD: 64.8836
+datetime: 2020-01-03 00:00:00
+
+FastK: 0.0
+FastD: 29.7672
+datetime: 2020-01-02 00:00:00
+
+FastK: 80.854
+FastD: 59.5344
+datetime: 2020-01-01 00:00:00
+
+FastK: 0.0
+FastD: 38.2148
+datetime: 2019-12-31 00:00:00
+
+FastK: 63.2217
+FastD: 76.4297
+datetime: 2019-12-30 00:00:00
+
+FastK: 100.0
+FastD: 89.6376
+datetime: 2019-12-29 00:00:00
+
+FastK: 100.0
+FastD: 79.2752
+datetime: 2019-12-28 00:00:00
+
+FastK: 100.0
+FastD: 58.5504
+datetime: 2019-12-27 00:00:00
+
+FastK: 23.0561
+FastD: 17.1008
+datetime: 2019-12-26 00:00:00
+
+FastK: 0.0
+FastD: 11.1454
+datetime: 2019-12-25 00:00:00
+
+FastK: 0.0
+FastD: 22.2908
+datetime: 2019-12-24 00:00:00
+
+FastK: 31.4051
+FastD: 44.5815
+datetime: 2019-12-23 00:00:00
+
+FastK: 100.0
+FastD: 57.758
+datetime: 2019-12-22 00:00:00
+
+FastK: 0.0
+FastD: 15.516
+datetime: 2019-12-21 00:00:00
+
+FastK: 2.3834
+FastD: 31.0319
+datetime: 2019-12-20 00:00:00
+
+FastK: 65.4844
+FastD: 59.6804
+datetime: 2019-12-19 00:00:00
+
+FastK: 100.0
+FastD: 53.8765
+datetime: 2019-12-18 00:00:00
+
+FastK: 0.0
+FastD: 7.753
+datetime: 2019-12-17 00:00:00
+
+FastK: 0.0
+FastD: 15.5059
+datetime: 2019-12-16 00:00:00
+
+FastK: 26.5363
+FastD: 31.0118
+datetime: 2019-12-15 00:00:00
+
+FastK: 0.0
+FastD: 35.4873
+datetime: 2019-12-14 00:00:00
+
+FastK: 95.9482
+FastD: 70.9746
+datetime: 2019-12-13 00:00:00
+
+FastK: 80.9103
+FastD: 46.001
+datetime: 2019-12-12 00:00:00
+
+FastK: 0.0
+FastD: 11.0918
+datetime: 2019-12-11 00:00:00
+
+FastK: 0.0
+FastD: 22.1836
+datetime: 2019-12-10 00:00:00
+
+FastK: 19.7594
+FastD: 44.3671
+datetime: 2019-12-09 00:00:00
+
+FastK: 100.0
+FastD: 68.9749
+datetime: 2019-12-08 00:00:00
+
+FastK: 0.0
+FastD: 37.9497
+datetime: 2019-12-07 00:00:00
+
+FastK: 100.0
+FastD: 75.8994
+datetime: 2019-12-06 00:00:00
+
+FastK: 100.0
+FastD: 51.7988
+datetime: 2019-12-05 00:00:00
+
+FastK: 0.0
+FastD: 3.5977
+datetime: 2019-12-04 00:00:00
+
+FastK: 0.0
+FastD: 7.1953
+datetime: 2019-12-03 00:00:00
+
+FastK: 0.0
+FastD: 14.3907
+datetime: 2019-12-02 00:00:00
+
+FastK: 0.0
+FastD: 28.7814
+datetime: 2019-12-01 00:00:00
+
+FastK: 27.3827
+FastD: 57.5628
+datetime: 2019-11-30 00:00:00
+
+FastK: 100.0
+FastD: 87.7429
+datetime: 2019-11-29 00:00:00
+
+FastK: 68.0464
+FastD: 75.4858
+datetime: 2019-11-28 00:00:00
+
+FastK: 100.0
+FastD: 82.9252
+datetime: 2019-11-27 00:00:00
+
+FastK: 100.0
+FastD: 65.8504
+datetime: 2019-11-26 00:00:00
+
+FastK: 57.122
+FastD: 31.7008
+datetime: 2019-11-25 00:00:00
+
+FastK: 0.0
+FastD: 6.2797
+datetime: 2019-11-24 00:00:00
+
+FastK: 23.019
+FastD: 12.5593
+datetime: 2019-11-23 00:00:00
+
+FastK: 0.0
+FastD: 2.0997
+datetime: 2019-11-22 00:00:00
+
+FastK: 0.0
+FastD: 4.1994
+datetime: 2019-11-21 00:00:00
+
+FastK: 0.0
+FastD: 8.3988
+datetime: 2019-11-20 00:00:00
+
+FastK: 0.0
+FastD: 16.7976
+datetime: 2019-11-19 00:00:00
+
+FastK: 0.0
+FastD: 33.5953
+datetime: 2019-11-18 00:00:00
+
+FastK: 100.0
+FastD: 67.1905
+datetime: 2019-11-17 00:00:00
+
+FastK: 50.6246
+FastD: 34.381
+datetime: 2019-11-16 00:00:00
+
+FastK: 0.0
+FastD: 18.1375
+datetime: 2019-11-15 00:00:00
+
+FastK: 0.0
+FastD: 36.2749
+datetime: 2019-11-14 00:00:00
+
+FastK: 100.0
+FastD: 72.5499
+datetime: 2019-11-13 00:00:00
+
+FastK: 54.8708
+FastD: 45.0997
+datetime: 2019-11-12 00:00:00
+
+FastK: 4.6865
+FastD: 35.3287
+datetime: 2019-11-11 00:00:00
+
+FastK: 100.0
+FastD: 65.9708
+datetime: 2019-11-10 00:00:00
+
+FastK: 40.8346
+FastD: 31.9417
+datetime: 2019-11-09 00:00:00
+
+FastK: 0.0
+FastD: 23.0488
+datetime: 2019-11-08 00:00:00
+
+FastK: 0.0
+FastD: 46.0975
+datetime: 2019-11-07 00:00:00
+
+FastK: 100.0
+FastD: 92.1951
+datetime: 2019-11-06 00:00:00
+
+FastK: 100.0
+FastD: 84.3901
+datetime: 2019-11-05 00:00:00
+
+FastK: 100.0
+FastD: 68.7803
+datetime: 2019-11-04 00:00:00
+
+FastK: 0.0
+FastD: 37.5605
+datetime: 2019-11-03 00:00:00
+
+FastK: 100.0
+FastD: 75.121
+datetime: 2019-11-02 00:00:00
+
+FastK: 74.421
+FastD: 50.242
+datetime: 2019-11-01 00:00:00
+
+FastK: 0.0
+FastD: 26.0631
+datetime: 2019-10-31 00:00:00
+
+FastK: 19.1037
+FastD: 52.1261
+datetime: 2019-10-30 00:00:00
+
+FastK: 100.0
+FastD: 85.1486
+datetime: 2019-10-29 00:00:00
+
+FastK: 54.3484
+FastD: 70.2971
+datetime: 2019-10-28 00:00:00
+
+FastK: 100.0
+FastD: 86.2458
+datetime: 2019-10-27 00:00:00
+
+FastK: 91.2104
+FastD: 72.4916
+datetime: 2019-10-26 00:00:00
+
+FastK: 100.0
+FastD: 53.7728
+datetime: 2019-10-25 00:00:00
+
+FastK: 0.0
+FastD: 7.5457
+datetime: 2019-10-24 00:00:00
+
+FastK: 0.0
+FastD: 15.0914
+datetime: 2019-10-23 00:00:00
+
+FastK: 0.0
+FastD: 30.1827
+datetime: 2019-10-22 00:00:00
+
+FastK: 66.4557
+FastD: 60.3655
+datetime: 2019-10-21 00:00:00
+
+FastK: 100.0
+FastD: 54.2753
+datetime: 2019-10-20 00:00:00
+
+FastK: 0.0
+FastD: 8.5506
+datetime: 2019-10-19 00:00:00
+
+FastK: 0.0
+FastD: 17.1012
+datetime: 2019-10-18 00:00:00
+
+FastK: 48.2513
+FastD: 34.2024
+datetime: 2019-10-17 00:00:00
+
+FastK: 0.0
+FastD: 20.1534
+datetime: 2019-10-16 00:00:00
+
+FastK: 0.0
+FastD: 40.3069
+datetime: 2019-10-15 00:00:00
+
+FastK: 100.0
+FastD: 80.6137
+datetime: 2019-10-14 00:00:00
+
+FastK: 100.0
+FastD: 61.2275
+datetime: 2019-10-13 00:00:00
+
+FastK: 0.0
+FastD: 22.455
+datetime: 2019-10-12 00:00:00
+
+FastK: 0.0
+FastD: 44.91
+datetime: 2019-10-11 00:00:00
+
+FastK: 88.1281
+FastD: 89.82
+datetime: 2019-10-10 00:00:00
+
+FastK: 100.0
+FastD: 91.5118
+datetime: 2019-10-09 00:00:00
+
+FastK: 100.0
+FastD: 83.0236
+datetime: 2019-10-08 00:00:00
+
+FastK: 100.0
+FastD: 66.0472
+datetime: 2019-10-07 00:00:00
+
+FastK: 0.0
+FastD: 32.0944
+datetime: 2019-10-06 00:00:00
+
+FastK: 100.0
+FastD: 64.1889
+datetime: 2019-10-05 00:00:00
+
+FastK: 16.8889
+FastD: 28.3778
+datetime: 2019-10-04 00:00:00
+
+FastK: 0.0
+FastD: 39.8667
+datetime: 2019-10-03 00:00:00
+
+FastK: 95.4892
+FastD: 79.7334
+datetime: 2019-10-02 00:00:00
+
+FastK: 58.9541
+FastD: 63.9775
+datetime: 2019-10-01 00:00:00
+
+FastK: 100.0
+FastD: 69.001
+datetime: 2019-09-30 00:00:00
+
+FastK: 0.0
+FastD: 38.002
+datetime: 2019-09-29 00:00:00
+
+FastK: 96.5386
+FastD: 76.004
+datetime: 2019-09-28 00:00:00
+
+FastK: 100.0
+FastD: 55.4693
+datetime: 2019-09-27 00:00:00
+
+FastK: 12.8584
+FastD: 10.9387
+datetime: 2019-09-26 00:00:00
+
+FastK: 12.5165
+FastD: 9.0189
+datetime: 2019-09-25 00:00:00
+
+FastK: 0.0
+FastD: 5.5213
+datetime: 2019-09-24 00:00:00
+
+FastK: 0.0
+FastD: 11.0427
+datetime: 2019-09-23 00:00:00
+
+FastK: 0.0
+FastD: 22.0854
+datetime: 2019-09-22 00:00:00
+
+FastK: 0.0
+FastD: 44.1708
+datetime: 2019-09-21 00:00:00
+
+FastK: 76.9951
+FastD: 88.3415
+datetime: 2019-09-20 00:00:00
+
+FastK: 100.0
+FastD: 99.688
+datetime: 2019-09-19 00:00:00
+
+FastK: 100.0
+FastD: 99.3759
+datetime: 2019-09-18 00:00:00
+
+FastK: 100.0
+FastD: 98.7518
+datetime: 2019-09-17 00:00:00
+
+FastK: 100.0
+FastD: 97.5037
+datetime: 2019-09-16 00:00:00
+
+FastK: 100.0
+FastD: 95.0073
+datetime: 2019-09-15 00:00:00
+
+FastK: 100.0
+FastD: 90.0147
+datetime: 2019-09-14 00:00:00
+
+FastK: 100.0
+FastD: 80.0293
+datetime: 2019-09-13 00:00:00
+
+FastK: 100.0
+FastD: 60.0587
+datetime: 2019-09-12 00:00:00
+
+FastK: 0.0
+FastD: 20.1173
+datetime: 2019-09-11 00:00:00
+
+FastK: 0.0
+FastD: 40.2347
+datetime: 2019-09-10 00:00:00
+
+FastK: 83.0946
+FastD: 80.4693
+datetime: 2019-09-09 00:00:00
+
+FastK: 100.0
+FastD: 77.844
+datetime: 2019-09-08 00:00:00
+
+FastK: 100.0
+FastD: 55.6881
+datetime: 2019-09-07 00:00:00
+
+FastK: 0.0
+FastD: 11.3761
+datetime: 2019-09-06 00:00:00
+
+FastK: 0.0
+FastD: 22.7523
+datetime: 2019-09-05 00:00:00
+
+FastK: 0.0
+FastD: 45.5046
+datetime: 2019-09-04 00:00:00
+
+FastK: 100.0
+FastD: 91.0092
+datetime: 2019-09-03 00:00:00
+
+FastK: 100.0
+FastD: 82.0184
+datetime: 2019-09-02 00:00:00
+
+FastK: 75.7454
+FastD: 64.0367
+datetime: 2019-09-01 00:00:00
+
+FastK: 100.0
+FastD: 52.3281
+datetime: 2019-08-31 00:00:00
+
+FastK: 0.0
+FastD: 4.6561
+datetime: 2019-08-30 00:00:00
+
+FastK: 0.0
+FastD: 9.3123
+datetime: 2019-08-29 00:00:00
+
+FastK: 0.0
+FastD: 18.6246
+datetime: 2019-08-28 00:00:00
+
+FastK: 36.7442
+FastD: 37.2492
+datetime: 2019-08-27 00:00:00
+
+FastK: 56.357
+FastD: 37.7542
+datetime: 2019-08-26 00:00:00
+
+FastK: 0.0
+FastD: 19.1514
+datetime: 2019-08-25 00:00:00
+
+FastK: 11.323
+FastD: 38.3027
+datetime: 2019-08-24 00:00:00
+
+FastK: 100.0
+FastD: 65.2825
+datetime: 2019-08-23 00:00:00
+
+FastK: 33.7021
+FastD: 30.565
+datetime: 2019-08-22 00:00:00
+
+FastK: 0.0
+FastD: 27.4278
+datetime: 2019-08-21 00:00:00
+
+FastK: 31.1133
+FastD: 54.8556
+datetime: 2019-08-20 00:00:00
+
+FastK: 100.0
+FastD: 78.5978
+datetime: 2019-08-19 00:00:00
+
+FastK: 100.0
+FastD: 57.1957
+datetime: 2019-08-18 00:00:00
+
+FastK: 24.5067
+FastD: 14.3913
+datetime: 2019-08-17 00:00:00
+
+FastK: 0.0
+FastD: 4.276
+datetime: 2019-08-16 00:00:00
+
+FastK: 4.401
+FastD: 8.552
+datetime: 2019-08-15 00:00:00
+
+FastK: 0.0
+FastD: 12.703
+datetime: 2019-08-14 00:00:00
+
+FastK: 0.0
+FastD: 25.406
+datetime: 2019-08-13 00:00:00
+
+FastK: 49.6164
+FastD: 50.812
+datetime: 2019-08-12 00:00:00
+
+FastK: 100.0
+FastD: 52.0077
+datetime: 2019-08-11 00:00:00
+
+FastK: 0.0
+FastD: 4.0154
+datetime: 2019-08-10 00:00:00
+
+FastK: 0.0
+FastD: 8.0308
+datetime: 2019-08-09 00:00:00
+
+FastK: 0.0
+FastD: 16.0616
+datetime: 2019-08-08 00:00:00
+
+FastK: 0.0
+FastD: 32.1231
+datetime: 2019-08-07 00:00:00
+
+FastK: 35.3708
+FastD: 64.2463
+datetime: 2019-08-06 00:00:00
+
+FastK: 100.0
+FastD: 93.1218
+datetime: 2019-08-05 00:00:00
+
+FastK: 92.014
+FastD: 86.2435
+datetime: 2019-08-04 00:00:00
+
+FastK: 100.0
+FastD: 80.473
+datetime: 2019-08-03 00:00:00
+
+FastK: 48.3357
+FastD: 60.946
+datetime: 2019-08-02 00:00:00
+
+FastK: 81.8638
+FastD: 73.5563
+datetime: 2019-08-01 00:00:00
+
+FastK: 100.0
+FastD: 65.2489
+datetime: 2019-07-31 00:00:00
+
+FastK: 0.0
+FastD: 30.4978
+datetime: 2019-07-30 00:00:00
+
+FastK: 83.0509
+FastD: 60.9956
+datetime: 2019-07-29 00:00:00
+
+FastK: 37.5295
+FastD: 38.9403
+datetime: 2019-07-28 00:00:00
+
+FastK: 0.0
+FastD: 40.3511
+datetime: 2019-07-27 00:00:00
+
+FastK: 88.0214
+FastD: 80.7021
+datetime: 2019-07-26 00:00:00
+
+FastK: 100.0
+FastD: 73.3829
+datetime: 2019-07-25 00:00:00
+
+FastK: 75.7587
+FastD: 46.7658
+datetime: 2019-07-24 00:00:00
+
+FastK: 0.0
+FastD: 17.773
+datetime: 2019-07-23 00:00:00
+
+FastK: 0.0
+FastD: 35.5459
+datetime: 2019-07-22 00:00:00
+
+FastK: 60.6035
+FastD: 71.0919
+datetime: 2019-07-21 00:00:00
+
