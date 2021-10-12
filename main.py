@@ -14,7 +14,7 @@ def request_alphavantage(**kwargs):
 def data2df_cur(data):
     #comment
     #sa
-    #ss
+    #s#$
     '''
     currency data
     '''
